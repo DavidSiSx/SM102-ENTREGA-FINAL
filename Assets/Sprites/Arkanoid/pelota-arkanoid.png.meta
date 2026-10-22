@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 325c454e070ec534e8e233ae06a939f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1270910989665394048
+    second: pelota-arkanoid_0
+  - first:
+      213: 2382681537600584108
+    second: pelota-arkanoid_1
+  - first:
+      213: 3338169891740086490
+    second: pelota-arkanoid_2
+  - first:
+      213: 953770847926753380
+    second: pelota-arkanoid_3
+  - first:
+      213: -3346143030857493575
+    second: pelota-arkanoid_4
+  - first:
+      213: 9124703754308132344
+    second: pelota-arkanoid_5
+  - first:
+      213: -3938224516037225083
+    second: pelota-arkanoid_6
+  - first:
+      213: 8594290056156099751
+    second: pelota-arkanoid_7
+  - first:
+      213: 3298954794737415757
+    second: pelota-arkanoid_8
+  - first:
+      213: 4584630350946953459
+    second: pelota-arkanoid_9
+  - first:
+      213: 8873756939788540280
+    second: pelota-arkanoid_10
+  - first:
+      213: -938087704761688881
+    second: pelota-arkanoid_11
+  - first:
+      213: -3505618167059909225
+    second: pelota-arkanoid_12
+  - first:
+      213: -3178431120657298621
+    second: pelota-arkanoid_13
+  - first:
+      213: 6224937461494612352
+    second: pelota-arkanoid_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pelota-arkanoid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1254
+        height: 1234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d5520cfce23a110800000000000000
+      internalID: 1270910989665394048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1209
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca970950c3cf01120800000000000000
+      internalID: 2382681537600584108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1189
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0721584df835e20800000000000000
+      internalID: 3338169891740086490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_3
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1088
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4681ccb68897c3d00800000000000000
+      internalID: 953770847926753380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_4
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1092
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3171e54ac1091d0800000000000000
+      internalID: -3346143030857493575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1038
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd953448b571ae70800000000000000
+      internalID: 9124703754308132344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_6
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 843
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585ddd31bad9859c0800000000000000
+      internalID: -3938224516037225083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_7
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 832
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a43bd5854d054770800000000000000
+      internalID: 8594290056156099751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46356e38ed38cd20800000000000000
+      internalID: 3298954794737415757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_9
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 750
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8eaa68301ef9f30800000000000000
+      internalID: 4584630350946953459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 340
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879d04bebeae52b70800000000000000
+      internalID: 8873756939788540280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc9485e33e3bf2f0800000000000000
+      internalID: -938087704761688881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 152
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795fc32c9da895fc0800000000000000
+      internalID: -3505618167059909225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_13
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 29
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bcc2e5cb1f3e3d0800000000000000
+      internalID: -3178431120657298621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pelota-arkanoid_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 57
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081886dd3ab636650800000000000000
+      internalID: 6224937461494612352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pelota-arkanoid_0: 1270910989665394048
+      pelota-arkanoid_1: 2382681537600584108
+      pelota-arkanoid_10: 8873756939788540280
+      pelota-arkanoid_11: -938087704761688881
+      pelota-arkanoid_12: -3505618167059909225
+      pelota-arkanoid_13: -3178431120657298621
+      pelota-arkanoid_14: 6224937461494612352
+      pelota-arkanoid_2: 3338169891740086490
+      pelota-arkanoid_3: 953770847926753380
+      pelota-arkanoid_4: -3346143030857493575
+      pelota-arkanoid_5: 9124703754308132344
+      pelota-arkanoid_6: -3938224516037225083
+      pelota-arkanoid_7: 8594290056156099751
+      pelota-arkanoid_8: 3298954794737415757
+      pelota-arkanoid_9: 4584630350946953459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

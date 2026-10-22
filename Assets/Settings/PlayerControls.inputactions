@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "name": "PlayerControls",
+  "maps": [
+    {
+      "name": "Player",
+      "id": "e51b9f57-516e-4da3-a39f-6392f9304ec2",
+      "actions": [
+        {
+          "name": "Move",
+          "type": "Value",
+          "id": "d1d6f7b1-b099-43eb-a6a3-011614eda9e8",
+          "expectedControlType": "Vector2",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": true,
+          "priority": 0
+        },
+        {
+          "name": "Jump",
+          "type": "Button",
+          "id": "aba3b04e-09f9-44e1-ae19-e0df0c76b52e",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": false,
+          "priority": 0
+        },
+        {
+          "name": "ChangeColor",
+          "type": "Button",
+          "id": "9f9db1d6-0564-43f7-b47d-ec788a461971",
+          "expectedControlType": "Button",
+          "processors": "",
+          "interactions": "",
+          "initialStateCheck": false,
+          "priority": 0
+        }
+      ],
+      "bindings": [
+        {
+          "name": "WASD",
+          "id": "26fb5029-ff6d-491a-9b7c-bfbc33e28dba",
+          "path": "2DVector",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": true,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "up",
+          "id": "a417722b-c87c-4235-8704-699e363825a2",
+          "path": "<Keyboard>/w",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "down",
+          "id": "70993d6f-f72e-4bd7-9f2d-93209d5bb1bd",
+          "path": "<Keyboard>/s",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "left",
+          "id": "42aa42ba-de77-4e5d-98d1-0668483baeff",
+          "path": "<Keyboard>/a",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "right",
+          "id": "6ba4b790-d5c2-47b8-a131-f77eb2c1e421",
+          "path": "<Keyboard>/d",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "ARROW",
+          "id": "659dbbba-7ce5-4987-b2e6-07164178944f",
+          "path": "2DVector",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": true,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "up",
+          "id": "a14a0f49-9256-4ac7-8a90-e24f07cca05c",
+          "path": "<Keyboard>/upArrow",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "down",
+          "id": "10a358de-742f-4886-bb50-dc5082abc91f",
+          "path": "<Keyboard>/downArrow",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "left",
+          "id": "dd10da74-adf0-4417-a1af-99e40798c7f9",
+          "path": "<Keyboard>/leftArrow",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "right",
+          "id": "b8590e51-e417-4913-bcb0-75ec255c9089",
+          "path": "<Keyboard>/rightArrow",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Move",
+          "isComposite": false,
+          "isPartOfComposite": true
+        },
+        {
+          "name": "",
+          "id": "e1bb0e84-c68a-4111-b2b6-2ffcec2deb7f",
+          "path": "<Keyboard>/space",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "Jump",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "",
+          "id": "a6a18b79-ccac-4728-846c-e639f4b87fbb",
+          "path": "<Keyboard>/c",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "ChangeColor",
+          "isComposite": false,
+          "isPartOfComposite": false
+        },
+        {
+          "name": "Personalizado V (antes F)",
+          "id": "597e027b-c15c-441a-a96d-5e2dc2cd2b7a",
+          "path": "<Keyboard>/v",
+          "interactions": "",
+          "processors": "",
+          "groups": "",
+          "action": "ChangeColor",
+          "isComposite": false,
+          "isPartOfComposite": false
+        }
+      ]
+    }
+  ],
+  "controlSchemes": []
+}

@@ -1,0 +1,1744 @@
+fileFormatVersion: 2
+guid: 95e093fb91e3b104c83505e71469f2b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8100075476783616195
+    second: plataforma-arkanoid_0
+  - first:
+      213: -6783324817132368273
+    second: plataforma-arkanoid_1
+  - first:
+      213: -4074450787334422322
+    second: plataforma-arkanoid_2
+  - first:
+      213: -4735576528551448860
+    second: plataforma-arkanoid_3
+  - first:
+      213: -7271632027751611653
+    second: plataforma-arkanoid_4
+  - first:
+      213: -8599168992500935320
+    second: plataforma-arkanoid_5
+  - first:
+      213: -2885613858668125457
+    second: plataforma-arkanoid_6
+  - first:
+      213: -3474728635278559034
+    second: plataforma-arkanoid_7
+  - first:
+      213: 960668206806867399
+    second: plataforma-arkanoid_8
+  - first:
+      213: 1774313117145320493
+    second: plataforma-arkanoid_9
+  - first:
+      213: 5311813231403504630
+    second: plataforma-arkanoid_10
+  - first:
+      213: 7710905952839799838
+    second: plataforma-arkanoid_11
+  - first:
+      213: 8808084841882407104
+    second: plataforma-arkanoid_12
+  - first:
+      213: -6538648922198252519
+    second: plataforma-arkanoid_13
+  - first:
+      213: -2274939903180988595
+    second: plataforma-arkanoid_14
+  - first:
+      213: -9218284446672980716
+    second: plataforma-arkanoid_15
+  - first:
+      213: 1022230588407756999
+    second: plataforma-arkanoid_16
+  - first:
+      213: 8727765532513206515
+    second: plataforma-arkanoid_17
+  - first:
+      213: 577291731002410186
+    second: plataforma-arkanoid_18
+  - first:
+      213: 911475849056214548
+    second: plataforma-arkanoid_19
+  - first:
+      213: -5975334915604898769
+    second: plataforma-arkanoid_20
+  - first:
+      213: -9052889577785747159
+    second: plataforma-arkanoid_21
+  - first:
+      213: -7896467724160867285
+    second: plataforma-arkanoid_22
+  - first:
+      213: 4193257241230168656
+    second: plataforma-arkanoid_23
+  - first:
+      213: 5992671489838611331
+    second: plataforma-arkanoid_24
+  - first:
+      213: 927333073874292025
+    second: plataforma-arkanoid_25
+  - first:
+      213: 1999885458586887166
+    second: plataforma-arkanoid_26
+  - first:
+      213: -2341721283088468548
+    second: plataforma-arkanoid_27
+  - first:
+      213: 4774732122013017861
+    second: plataforma-arkanoid_28
+  - first:
+      213: -7209762620033226895
+    second: plataforma-arkanoid_29
+  - first:
+      213: 3238335692116483312
+    second: plataforma-arkanoid_30
+  - first:
+      213: -3540826940134088537
+    second: plataforma-arkanoid_31
+  - first:
+      213: 5324458742222412555
+    second: plataforma-arkanoid_32
+  - first:
+      213: 8314200989050310844
+    second: plataforma-arkanoid_33
+  - first:
+      213: -984688052846194195
+    second: plataforma-arkanoid_34
+  - first:
+      213: 1926334549429144473
+    second: plataforma-arkanoid_35
+  - first:
+      213: -7438457112441039741
+    second: plataforma-arkanoid_36
+  - first:
+      213: -6303637418508079067
+    second: plataforma-arkanoid_37
+  - first:
+      213: 8299403666158115299
+    second: plataforma-arkanoid_38
+  - first:
+      213: -7695984239129473885
+    second: plataforma-arkanoid_39
+  - first:
+      213: 1023153448598092668
+    second: plataforma-arkanoid_40
+  - first:
+      213: -2409372391301272220
+    second: plataforma-arkanoid_41
+  - first:
+      213: 2400535387854509540
+    second: plataforma-arkanoid_42
+  - first:
+      213: 25125610677016328
+    second: plataforma-arkanoid_43
+  - first:
+      213: 3089442135594223543
+    second: plataforma-arkanoid_44
+  - first:
+      213: -7068296082539397262
+    second: plataforma-arkanoid_45
+  - first:
+      213: -7536829398367290996
+    second: plataforma-arkanoid_46
+  - first:
+      213: 2117942373735884376
+    second: plataforma-arkanoid_47
+  - first:
+      213: 315025531102777227
+    second: plataforma-arkanoid_48
+  - first:
+      213: -2841787208455465169
+    second: plataforma-arkanoid_49
+  - first:
+      213: -552335146936608696
+    second: plataforma-arkanoid_50
+  - first:
+      213: -3517128840832146662
+    second: plataforma-arkanoid_51
+  - first:
+      213: -2300882871721484119
+    second: plataforma-arkanoid_52
+  - first:
+      213: -3167978214211045494
+    second: plataforma-arkanoid_53
+  - first:
+      213: -323873480911051640
+    second: plataforma-arkanoid_54
+  - first:
+      213: -8795800729481838177
+    second: plataforma-arkanoid_55
+  - first:
+      213: -4155884445327999388
+    second: plataforma-arkanoid_56
+  - first:
+      213: -1348538155652636371
+    second: plataforma-arkanoid_57
+  - first:
+      213: 4725345865367931426
+    second: plataforma-arkanoid_58
+  - first:
+      213: 4587972667517055489
+    second: plataforma-arkanoid_59
+  - first:
+      213: 7087803276161310243
+    second: plataforma-arkanoid_60
+  - first:
+      213: 3368634505690318493
+    second: plataforma-arkanoid_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plataforma-arkanoid_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 564
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fa5781540c69f80800000000000000
+      internalID: -8100075476783616195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_1
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 584
+        width: 103
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ecbb6b40accd1a0800000000000000
+      internalID: -6783324817132368273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 568
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec00f16a894a477c0800000000000000
+      internalID: -4074450787334422322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 594
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee6309cc3ad74eb0800000000000000
+      internalID: -4735576528551448860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 592
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf203809239f51b90800000000000000
+      internalID: -7271632027751611653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 598
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8659d669c5d99a880800000000000000
+      internalID: -8599168992500935320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_6
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 549
+        width: 108
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe26423fb7d34f7d0800000000000000
+      internalID: -2885613858668125457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_7
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 545
+        width: 124
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8f75357b847cfc0800000000000000
+      internalID: -3474728635278559034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 575
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd1cbde4aaf45d00800000000000000
+      internalID: 960668206806867399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_9
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 544
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c43cb1160af9810800000000000000
+      internalID: 1774313117145320493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_10
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 544
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f39603adf957b940800000000000000
+      internalID: 5311813231403504630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_11
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 574
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1416772c14a20b60800000000000000
+      internalID: 7710905952839799838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_12
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 566
+        width: 105
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c057e71f7a9c3a70800000000000000
+      internalID: 8808084841882407104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_13
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 578
+        width: 104
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914e161d27d0245a0800000000000000
+      internalID: -6538648922198252519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_14
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 530
+        width: 261
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f1981163acd60e0800000000000000
+      internalID: -2274939903180988595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_15
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 562
+        width: 11
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4157c85e223121080800000000000000
+      internalID: -9218284446672980716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_16
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 502
+        width: 60
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8359cdd41bf2e00800000000000000
+      internalID: 1022230588407756999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_17
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 548
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0095892804f1970800000000000000
+      internalID: 8727765532513206515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 564
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac44b2e45c3f20800800000000000000
+      internalID: 577291731002410186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_19
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 548
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ed75c947636ac00800000000000000
+      internalID: 911475849056214548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 556
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c916d8d88531da0800000000000000
+      internalID: -5975334915604898769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_21
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 544
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9299e3da4ecad5280800000000000000
+      internalID: -9052889577785747159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_22
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 571
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24ed01317c1a6290800000000000000
+      internalID: -7896467724160867285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_23
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 569
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052db5b7e31713a30800000000000000
+      internalID: 4193257241230168656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 576
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf07f28fe3a2350800000000000000
+      internalID: 5992671489838611331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_25
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 578
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d8fb8748c8edc00800000000000000
+      internalID: 927333073874292025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_26
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 556
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef36a8e8a3501cb10800000000000000
+      internalID: 1999885458586887166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_27
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 578
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53a8666e8808fd0800000000000000
+      internalID: -2341721283088468548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_28
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 551
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507ab3e3191434240800000000000000
+      internalID: 4774732122013017861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_29
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 573
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177a7069817c1fb90800000000000000
+      internalID: -7209762620033226895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_30
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 556
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc52109721e0fc20800000000000000
+      internalID: 3238335692116483312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_31
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 559
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0ac2678a47cdec0800000000000000
+      internalID: -3540826940134088537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_32
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 538
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bd36f040744e940800000000000000
+      internalID: 5324458742222412555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_33
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 570
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb09b8fbfb9f16370800000000000000
+      internalID: 8314200989050310844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_34
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 574
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1188bde6fa552f0800000000000000
+      internalID: -984688052846194195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_35
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 554
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b49490117bbba10800000000000000
+      internalID: 1926334549429144473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_36
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 553
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38459f7baaa45c890800000000000000
+      internalID: -7438457112441039741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_37
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 566
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52037fc7a2bf488a0800000000000000
+      internalID: -6303637418508079067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 87
+        width: 2075
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9dde889a76d2370800000000000000
+      internalID: 8299403666158115299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_39
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 546
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3accead0c1f523590800000000000000
+      internalID: -7695984239129473885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 562
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bb76ef3a8f23e00800000000000000
+      internalID: 1023153448598092668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_41
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 564
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46daad45390309ed0800000000000000
+      internalID: -2409372391301272220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_42
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 544
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e592d7773a605120800000000000000
+      internalID: 2400535387854509540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_43
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 556
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8071b2b1c93495000800000000000000
+      internalID: 25125610677016328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_44
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 556
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7c736f047efda20800000000000000
+      internalID: 3089442135594223543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_45
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 564
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f34f0992e58ed90800000000000000
+      internalID: -7068296082539397262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_46
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 561
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b891189dc76790800000000000000
+      internalID: -7536829398367290996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_47
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 554
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85666491e51746d10800000000000000
+      internalID: 2117942373735884376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_48
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 530
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4f8c2d023f5400800000000000000
+      internalID: 315025531102777227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_49
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2753c02791ff88d0800000000000000
+      internalID: -2841787208455465169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_50
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 548
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84851e93c16b558f0800000000000000
+      internalID: -552335146936608696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_51
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 538
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a132bec24f5a03fc0800000000000000
+      internalID: -3517128840832146662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_52
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 546
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a241083f9110e0800000000000000
+      internalID: -2300882871721484119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_53
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 532
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8736cd49941904d0800000000000000
+      internalID: -3167978214211045494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_54
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 532
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884a02af8ce518bf0800000000000000
+      internalID: -323873480911051640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_55
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 516
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f910d14b6d90fe580800000000000000
+      internalID: -8795800729481838177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_56
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 515
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e37a4ad155356c0800000000000000
+      internalID: -4155884445327999388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_57
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 516
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21a34a31b7094de0800000000000000
+      internalID: -1348538155652636371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_58
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22acd12570dc39140800000000000000
+      internalID: 4725345865367931426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_59
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 132
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1023e8e35d0cbaf30800000000000000
+      internalID: 4587972667517055489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_60
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 142
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ed171e68fec5260800000000000000
+      internalID: 7087803276161310243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plataforma-arkanoid_61
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 99
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d968bc13c3bcfbe20800000000000000
+      internalID: 3368634505690318493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plataforma-arkanoid_0: -8100075476783616195
+      plataforma-arkanoid_1: -6783324817132368273
+      plataforma-arkanoid_10: 5311813231403504630
+      plataforma-arkanoid_11: 7710905952839799838
+      plataforma-arkanoid_12: 8808084841882407104
+      plataforma-arkanoid_13: -6538648922198252519
+      plataforma-arkanoid_14: -2274939903180988595
+      plataforma-arkanoid_15: -9218284446672980716
+      plataforma-arkanoid_16: 1022230588407756999
+      plataforma-arkanoid_17: 8727765532513206515
+      plataforma-arkanoid_18: 577291731002410186
+      plataforma-arkanoid_19: 911475849056214548
+      plataforma-arkanoid_2: -4074450787334422322
+      plataforma-arkanoid_20: -5975334915604898769
+      plataforma-arkanoid_21: -9052889577785747159
+      plataforma-arkanoid_22: -7896467724160867285
+      plataforma-arkanoid_23: 4193257241230168656
+      plataforma-arkanoid_24: 5992671489838611331
+      plataforma-arkanoid_25: 927333073874292025
+      plataforma-arkanoid_26: 1999885458586887166
+      plataforma-arkanoid_27: -2341721283088468548
+      plataforma-arkanoid_28: 4774732122013017861
+      plataforma-arkanoid_29: -7209762620033226895
+      plataforma-arkanoid_3: -4735576528551448860
+      plataforma-arkanoid_30: 3238335692116483312
+      plataforma-arkanoid_31: -3540826940134088537
+      plataforma-arkanoid_32: 5324458742222412555
+      plataforma-arkanoid_33: 8314200989050310844
+      plataforma-arkanoid_34: -984688052846194195
+      plataforma-arkanoid_35: 1926334549429144473
+      plataforma-arkanoid_36: -7438457112441039741
+      plataforma-arkanoid_37: -6303637418508079067
+      plataforma-arkanoid_38: 8299403666158115299
+      plataforma-arkanoid_39: -7695984239129473885
+      plataforma-arkanoid_4: -7271632027751611653
+      plataforma-arkanoid_40: 1023153448598092668
+      plataforma-arkanoid_41: -2409372391301272220
+      plataforma-arkanoid_42: 2400535387854509540
+      plataforma-arkanoid_43: 25125610677016328
+      plataforma-arkanoid_44: 3089442135594223543
+      plataforma-arkanoid_45: -7068296082539397262
+      plataforma-arkanoid_46: -7536829398367290996
+      plataforma-arkanoid_47: 2117942373735884376
+      plataforma-arkanoid_48: 315025531102777227
+      plataforma-arkanoid_49: -2841787208455465169
+      plataforma-arkanoid_5: -8599168992500935320
+      plataforma-arkanoid_50: -552335146936608696
+      plataforma-arkanoid_51: -3517128840832146662
+      plataforma-arkanoid_52: -2300882871721484119
+      plataforma-arkanoid_53: -3167978214211045494
+      plataforma-arkanoid_54: -323873480911051640
+      plataforma-arkanoid_55: -8795800729481838177
+      plataforma-arkanoid_56: -4155884445327999388
+      plataforma-arkanoid_57: -1348538155652636371
+      plataforma-arkanoid_58: 4725345865367931426
+      plataforma-arkanoid_59: 4587972667517055489
+      plataforma-arkanoid_6: -2885613858668125457
+      plataforma-arkanoid_60: 7087803276161310243
+      plataforma-arkanoid_61: 3368634505690318493
+      plataforma-arkanoid_7: -3474728635278559034
+      plataforma-arkanoid_8: 960668206806867399
+      plataforma-arkanoid_9: 1774313117145320493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
