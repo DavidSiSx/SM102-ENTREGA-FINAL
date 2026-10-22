@@ -121,7 +121,3 @@ Todas las actividades requeridas están completamente cubiertas con escenas dedi
 
 ---
 
-## 🔒 Nota para la Revisión
-
-> **AVISO:** Este repositorio está configurado como **Privado**. Para que el profesor pueda clonar, evaluar o inspeccionar el código, por favor asegúrese de otorgarle acceso como **Colaborador** en:
-> `Settings` > `Collaborators` > `Add people` (ingresando el usuario de GitHub del profesor).
